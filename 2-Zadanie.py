@@ -1,3 +1,4 @@
+#Определить, какой символ чаще других встречается в данном файле.
 from collections import Counter
 f = open('test.txt','r')
 f1 = f.read()
